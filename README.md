@@ -24,18 +24,33 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PerdSonNoeud&theme=transparent" height="150" alt="streak graph"/>
 </div>
 
-<code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="20" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="20" alt="ocaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg"></code>
-<code><img height="20" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="20" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"></code>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Known language :</kbd>
+    <br>
+    <br>
+    <img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img height="20" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img height="20" alt="ocaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg">
+    <img height="20" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img height="20" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+  </kbd>
+  <kbd>
+    <kdb>Front-end/Back-end :</kdb>
+    <br>
+    <br>
+    <img height="20" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img height="20" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img height="20" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  </kbd>
+  <kdb>
+    <kdb>Tools :</kdb>
+    <br>
+    <br>
+    <img height="20" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img height="20" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img height="20" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+    <img height="20" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg">
+  </kdb>
+</div>
 
-<code><img height="20" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="20" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-
-<code><img height="20" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-
-<code><img height="20" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></code>
-<code><img height="20" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"></code>
