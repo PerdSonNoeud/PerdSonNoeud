@@ -33,7 +33,6 @@ Here are some ideas to get you started:
     <img height="20" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img height="20" alt="ocaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg">
     <img height="20" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img height="20" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   </kbd>
   <kbd>
     <kdb>Front-end/Back-end :</kdb>
