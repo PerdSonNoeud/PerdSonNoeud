@@ -52,5 +52,5 @@ Here are some ideas to get you started:
     <img height="20" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
     <img height="20" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg">
   </kdb>
-</div>
+</p>
 
